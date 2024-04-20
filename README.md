@@ -2,7 +2,7 @@
 This projects is an implementation of Pacman game using different AI algorithms.
 
 ## The Algorithms used in this project are as follows:
- BFS
+ BFS  return
  Depth First Search
  Uniform Cost Search
  A* Search
