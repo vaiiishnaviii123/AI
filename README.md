@@ -3,11 +3,10 @@ This projects is an implementation of Pacman game using different AI algorithms.
 
 ## Tech Stack
 
- [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+ [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 
 ## Development Environment
-[![My Skills](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)
-- [![Pycharm](https://img.shields.io/badge/pycharm-%233DDC84?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![My Skills](https://skillicons.dev/icons?i=pycharm)](https://www.jetbrains.com/pycharm/)
   
 ## The Algorithms used in this project are as follows:
 BFS<br>
