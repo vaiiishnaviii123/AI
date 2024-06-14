@@ -1,4 +1,4 @@
-# AI
+# Pacman - Artificial Intelligence Algorithms.
 This projects is an implementation of Pacman game using different AI algorithms. The [algorithms](#algorithms) implemented in search.py of each folder are used to find a path through the maze. 
 
 ## Tech Stack
