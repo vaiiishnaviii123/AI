@@ -3,16 +3,12 @@ This projects is an implementation of Pacman game using different AI algorithms.
 
 ## Tech Stack
 
-| [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)| ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white) | ![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white) | ![iOS](https://img.shields.io/badge/iOS-%231575F9?style=for-the-badge&logo=apple&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
-| :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
+| [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev) |
 
 ## Development Environment
-- [![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
-
-- [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+| [![My Skills](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev) |
+- [![VS Code](https://img.shields.io/badge/pycharm%20Code-007ACC?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
   
-- [![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-
 ## The Algorithms used in this project are as follows:
 BFS<br>
 Depth First Search<br>
