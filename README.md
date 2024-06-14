@@ -3,7 +3,7 @@ This projects is an implementation of Pacman game using different AI algorithms.
 
 ## Tech Stack
 
-| ![Python](https://img.shields.io/badge/py-%2302569B?style=for-the-badge&logo=py&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white) | ![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white) | ![iOS](https://img.shields.io/badge/iOS-%231575F9?style=for-the-badge&logo=apple&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
+| [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)| ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white) | ![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white) | ![iOS](https://img.shields.io/badge/iOS-%231575F9?style=for-the-badge&logo=apple&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
 | :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
 
 ## Development Environment
