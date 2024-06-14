@@ -1,5 +1,5 @@
 # AI
-This projects is an implementation of Pacman game using different AI algorithms. The algorithms(#algorithms) implemented in search.py are used to find a path through the maze. 
+This projects is an implementation of Pacman game using different AI algorithms. The [algorithms](#algorithms) implemented in search.py of each folder are used to find a path through the maze. 
 
 ## Tech Stack
 
@@ -24,7 +24,7 @@ Reinforcement Learning - Q-learning, Approximate Q-Learning<br>
 - Open a terminal in your project folder. Note: Each algorithm needs to be run in its respective sub folder.
 - Run the following commands to see the results.
 
-## 2. Search Algorithm
+## 1. Search Algorithm
 
 ### Breadth First Search to Find a Path to a Fixed Object
 This graph search algorithm that avoids expanding any already visited states. 
@@ -98,9 +98,11 @@ python pacman.py -p AlphaBetaAgent -a depth=3 -l smallClassic
 ```
 
 ### Expectimax 
+```bash
+python pacman.py -p AlphaBetaAgent -l trappedClassic -a depth=3 -q -n 10
+```
 
-
-## MDP and Reinforcement Learning
+## 3. MDP and Reinforcement Learning
 
 ### Value Iteration
 ```bash
